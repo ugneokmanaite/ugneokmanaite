@@ -1,9 +1,10 @@
 # Hello, I'm Ugne :sparkles:
 <img src= "https://github.com/ugneokmanaite/ugneokmanaite/blob/master/banner.png"></img>
 
-- DevOps trainee :computer:
+:pushpin: Birmingham
+:computer: DevOps trainee 
 
-- International Business & Management BSc :mortar_board:
-- Engineering Management MSc :mortar_board:
+:mortar_board: International Business & Management BSc
+:mortar_board: Engineering Management MSc
 
 
