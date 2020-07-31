@@ -8,5 +8,6 @@
 
 :mortar_board: International Business & Management BSc
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ugneokmanaite)](https://github.com/anuraghazra/github-readme-stats)
+<i>A little about me</i>:
 
+:sparkles I am currently in my last stages of my Engineering Management MSc degree, putting my adaptability skills into practice and entering the world of Tech! I love travelling, exploring different cultures and trying new cuisines. When I'm not working on my dissertation or full-time DevOps training I enjoy yoga, playing squash & hiking :sparkles
