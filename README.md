@@ -8,5 +8,5 @@
 
 :mortar_board: International Business & Management BSc
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ugneokmanaite)](https://github.com/anuraghazra/github-readme-stats)
 
