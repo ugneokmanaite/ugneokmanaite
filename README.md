@@ -1,2 +1,2 @@
 Hello, I'm Ugne 
-![image](banner.png)
+<img src= "https://github.com/ugneokmanaite/ugneokmanaite/blob/master/banner.png"></img>
