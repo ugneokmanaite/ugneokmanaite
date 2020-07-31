@@ -1,6 +1,6 @@
 <img src= "https://github.com/ugneokmanaite/ugneokmanaite/blob/master/banner.png"></img>
 
-:pushpin: Birmingham
+:pushpin: Birmingham, UK
 
 :computer: DevOps Trainee 
 
