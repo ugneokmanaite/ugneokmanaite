@@ -2,7 +2,7 @@
 
 :pushpin: Birmingham
 
-:computer: DevOps trainee 
+:computer: DevOps Trainee 
 
 :mortar_board: Engineering Management MSc
 
